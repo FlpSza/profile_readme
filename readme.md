@@ -11,4 +11,4 @@ Front-end:
 
 back-end:
 
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+
